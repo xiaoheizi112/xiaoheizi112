@@ -2,8 +2,8 @@
 
 ## 👋 关于我
 
-**求职方向：C++/Qt · Flutter 应用开发。**
-擅长用 AI 加速把想法做成上线成品——设计、编码、测试、打包发布全流程独立走通。
+**求职方向：AI 应用开发。**
+喜欢使用 AI 进行各种尝试，擅长把想法快速做成上线成品——设计、编码、测试、打包发布全流程独立走通。
 代码之外的一切思考写在博客：[慢公子的小站](https://xiaoheizi112.github.io)
 
 ## 🤖 AI 开发作品（主打）
@@ -19,8 +19,17 @@
 
 ## 🧰 技术栈
 
-`C++` `Qt Widgets` `Flutter / Dart` `SQLite` `Python` `Git` `GitHub Actions` `Hugo`
+| 类别 | 技术 |
+|---|---|
+| 语言 | C · C++ · Python · 易语言 |
+| 框架 | Qt |
+| 系统与环境 | Linux · Git |
+| 数据存储 | SQLite |
 
 ## 📮 联系
 
-求职交流、代码指正，欢迎直接开 [Issue](https://github.com/xiaoheizi112/xiaoheizi112/issues) 或到博客留言。
+| 渠道 | 账号 |
+|---|---|
+| 微信 | `hemoumoumou01` |
+| QQ | `3866074912` |
+| 代码指正 | 直接开 [Issue](https://github.com/xiaoheizi112/xiaoheizi112/issues) 或到[博客](https://xiaoheizi112.github.io)留言 |
