@@ -33,3 +33,7 @@
 | 微信 | `hemoumoumou01` |
 | QQ | `3866074912` |
 | 代码指正 | 直接开 [Issue](https://github.com/xiaoheizi112/xiaoheizi112/issues) 或到[博客](https://xiaoheizi112.github.io)留言 |
+
+| 微信扫码 | QQ 扫码 |
+|:---:|:---:|
+| <img src="assets/contact-wechat.png" width="220"> | <img src="assets/contact-qq.png" width="220"> |
