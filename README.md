@@ -17,10 +17,6 @@
 
 [记事本](https://github.com/xiaoheizi112/Notepad) · [天气预报](https://github.com/xiaoheizi112/Weather-Forecast) · [音乐播放器](https://github.com/xiaoheizi112/KYYMusic) · [DeepSeek 聊天客户端](https://github.com/xiaoheizi112/Deepseek-Chat) · [串口调试助手](https://github.com/xiaoheizi112/QtSerialPort) · [TCP 网络调试助手](https://github.com/xiaoheizi112/TCP-Network-Debugging-Assistant) · [人脸识别考勤系统](https://github.com/xiaoheizi112/Attendance-System-Based-on-Facial-Recognition)
 
-## 📚 C/C++ 练习
-
-[CPP_Practice（22 个专题索引）](https://github.com/xiaoheizi112/CPP_Practice) · [Sort](https://github.com/xiaoheizi112/Sort) · [Address-List](https://github.com/xiaoheizi112/Address-List) · [Online-dictionary](https://github.com/xiaoheizi112/Online-dictionary-on-the-Internet) · [Deepseek](https://github.com/xiaoheizi112/Deepseek)
-
 ## 🧰 技术栈
 
 `C++` `Qt Widgets` `Flutter / Dart` `SQLite` `Python` `Git` `GitHub Actions` `Hugo`
