@@ -17,23 +17,10 @@
 
 [记事本](https://github.com/xiaoheizi112/Notepad) · [天气预报](https://github.com/xiaoheizi112/Weather-Forecast) · [音乐播放器](https://github.com/xiaoheizi112/KYYMusic) · [DeepSeek 聊天客户端](https://github.com/xiaoheizi112/Deepseek-Chat) · [串口调试助手](https://github.com/xiaoheizi112/QtSerialPort) · [TCP 网络调试助手](https://github.com/xiaoheizi112/TCP-Network-Debugging-Assistant) · [人脸识别考勤系统](https://github.com/xiaoheizi112/Attendance-System-Based-on-Facial-Recognition)
 
-## 🧰 技术栈
-
-| 类别 | 技术 |
-|---|---|
-| 语言 | C · C++ · Python · 易语言 |
-| 框架 | Qt |
-| 系统与环境 | Linux · Git |
-| 数据存储 | SQLite |
-
 ## 📮 联系
 
-| 渠道 | 账号 |
-|---|---|
-| 微信 | `hemoumoumou01` |
-| QQ | `3866074912` |
-| 代码指正 | 直接开 [Issue](https://github.com/xiaoheizi112/xiaoheizi112/issues) 或到[博客](https://xiaoheizi112.github.io)留言 |
-
-| 微信扫码 | QQ 扫码 |
+| 微信 | QQ |
 |:---:|:---:|
-| <img src="assets/contact-wechat.png" width="220"> | <img src="assets/contact-qq.png" width="220"> |
+| <img src="assets/contact-wechat.png" width="200"> | <img src="assets/contact-qq.png" width="200"> |
+
+微信 `hemoumoumou01` · QQ `3866074912` · 代码指正欢迎开 [Issue](https://github.com/xiaoheizi112/xiaoheizi112/issues) 或到[博客](https://xiaoheizi112.github.io)留言
