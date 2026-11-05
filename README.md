@@ -11,6 +11,8 @@
 | 项目 | 一句话 | 看点 |
 |---|---|---|
 | [睡眠打卡 Sleep Check-in](https://github.com/xiaoheizi112/sleep-checkin-app) | Flutter 完整应用：打卡 · 统计分析 · 睡眠质量测评 | [Release 下载 APK 可直接试玩](https://github.com/xiaoheizi112/sleep-checkin-app/releases)；自研测评算法；含单元测试与产品文档 |
+| [深渊幸存者 Abyss Survivor](https://github.com/xiaoheizi112/AbyssSurvivor) | Godot 4.6 / GDScript 全程 AI 结对的吸血鬼幸存者 Like | 1.4 万行代码；[Releases 免安装即玩](https://github.com/xiaoheizi112/AbyssSurvivor/releases)；9 套可重放自检 |
+| [EmuHive 多开挂机框架](https://github.com/xiaoheizi112/EmuHive) | PySide6 + OpenCV + 节点图 DSL 的通用图色自动化 | 雷电4 模拟器 20~30 实例并行；不写代码拼脚本；70+ 冒烟自检 |
 | [个人小站](https://github.com/xiaoheizi112/xiaoheizi112.github.io) | Hugo 静态博客与个人主页 | 持续更新的项目复盘与学习笔记 |
 
 ## 🛠 Qt 桌面课设集（已归档，只读可参考）
