@@ -1,25 +1,30 @@
-### 你好，我是 xiaoheizi112 👋
+<img src="assets/header.png" alt="慢公子" width="100%">
 
-平时写 C/C++/Qt 和 Flutter，这里是全部项目的分类导航。
+## 👋 关于我
 
-**🚧 活跃开发**
-- [sleep-checkin-app](https://github.com/xiaoheizi112/sleep-checkin-app) —— Flutter 本地优先睡眠打卡 App（统计报表/徽章/睡眠测评）
-- [xiaoheizi112.github.io](https://github.com/xiaoheizi112/xiaoheizi112.github.io) —— 慢公子的小站（Hugo 博客）
+**求职方向：C++/Qt · Flutter 应用开发。**
+擅长用 AI 加速把想法做成上线成品——设计、编码、测试、打包发布全流程独立走通。
+代码之外的一切思考写在博客：[慢公子的小站](https://xiaoheizi112.github.io)
 
-**🧑‍🏫 C/C++ 学习练习**
-- [CPP_Practice](https://github.com/xiaoheizi112/CPP_Practice) —— C++ 分专题练习（20 个知识点目录）
-- [Sort](https://github.com/xiaoheizi112/Sort) —— 常见排序算法（冒泡/快排/堆排）
-- [Address-List](https://github.com/xiaoheizi112/Address-List) —— C 语言通讯录
-- [Online-dictionary-on-the-Internet](https://github.com/xiaoheizi112/Online-dictionary-on-the-Internet) —— C/S 架构在线词典
-- [Deepseek](https://github.com/xiaoheizi112/Deepseek) —— C++ 调用 DeepSeek API 的最小示例
+## 🤖 AI 开发作品（主打）
 
-**🖥️ Qt 桌面课设**（已归档 = 只读存档）
-- [Notepad](https://github.com/xiaoheizi112/Notepad) —— Qt 记事本
-- [Weather-Forecast](https://github.com/xiaoheizi112/Weather-Forecast) —— 天气预报
-- [KYYMusic](https://github.com/xiaoheizi112/KYYMusic) —— QML 仿网易云音乐界面
-- [Deepseek-Chat](https://github.com/xiaoheizi112/Deepseek-Chat) —— Qt + DeepSeek 聊天客户端
-- [QtSerialPort](https://github.com/xiaoheizi112/QtSerialPort) —— 串口调试助手（保留未归档）
-- [TCP-Network-Debugging-Assistant](https://github.com/xiaoheizi112/TCP-Network-Debugging-Assistant) —— TCP 通信调试助手
-- [Attendance-System-Based-on-Facial-Recognition](https://github.com/xiaoheizi112/Attendance-System-Based-on-Facial-Recognition) —— 人脸识别考勤系统
+| 项目 | 一句话 | 看点 |
+|---|---|---|
+| [睡眠打卡 Sleep Check-in](https://github.com/xiaoheizi112/sleep-checkin-app) | Flutter 完整应用：打卡 · 统计分析 · 睡眠质量测评 | [Release 下载 APK 可直接试玩](https://github.com/xiaoheizi112/sleep-checkin-app/releases)；自研测评算法；含单元测试与产品文档 |
+| [个人小站](https://github.com/xiaoheizi112/xiaoheizi112.github.io) | Hugo 静态博客与个人主页 | 持续更新的项目复盘与学习笔记 |
 
-> 整理于 2026-11-05：课程项目已全部归档，活跃项目持续更新。
+## 🛠 Qt 桌面课设集（已归档，只读可参考）
+
+[记事本](https://github.com/xiaoheizi112/Notepad) · [天气预报](https://github.com/xiaoheizi112/Weather-Forecast) · [音乐播放器](https://github.com/xiaoheizi112/KYYMusic) · [DeepSeek 聊天客户端](https://github.com/xiaoheizi112/Deepseek-Chat) · [串口调试助手](https://github.com/xiaoheizi112/QtSerialPort) · [TCP 网络调试助手](https://github.com/xiaoheizi112/TCP-Network-Debugging-Assistant) · [人脸识别考勤系统](https://github.com/xiaoheizi112/Attendance-System-Based-on-Facial-Recognition)
+
+## 📚 C/C++ 练习
+
+[CPP_Practice（22 个专题索引）](https://github.com/xiaoheizi112/CPP_Practice) · [Sort](https://github.com/xiaoheizi112/Sort) · [Address-List](https://github.com/xiaoheizi112/Address-List) · [Online-dictionary](https://github.com/xiaoheizi112/Online-dictionary-on-the-Internet) · [Deepseek](https://github.com/xiaoheizi112/Deepseek)
+
+## 🧰 技术栈
+
+`C++` `Qt Widgets` `Flutter / Dart` `SQLite` `Python` `Git` `GitHub Actions` `Hugo`
+
+## 📮 联系
+
+求职交流、代码指正，欢迎直接开 [Issue](https://github.com/xiaoheizi112/xiaoheizi112/issues) 或到博客留言。
